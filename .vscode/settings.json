@@ -1,0 +1,17 @@
+{
+	"sqltools.connections": [
+		{
+			"mysqlOptions": {
+				"authProtocol": "default"
+			},
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 3001,
+			"askForPassword": true,
+			"driver": "MySQL",
+			"username": "root",
+			"name": "ecommerce_db",
+			"database": "ecommerce_db"
+		}
+	]
+}
