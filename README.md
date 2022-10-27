@@ -21,14 +21,15 @@ Open command prompt and run: npm install
 Create a .env in the root directory
 
 Create the following .env file:
-NODE_ENV=development
-NODE_HOST=localhost
-NODE_PORT=3306
-NODE_HTTPS=false
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=root
-DB_NAME=ecommerce_db
+
+- NODE_ENV=development
+- NODE_HOST=localhost
+- NODE_PORT=3306
+- NODE_HTTPS=false
+- DB_HOST=localhost
+- DB_USER=root
+- DB_PASSWORD=root
+- DB_NAME=ecommerce_db
 
 Run: npm start
 Run: npm run seeds
@@ -37,6 +38,8 @@ Run: npm run watch
 App should be listening!
 
 ## Github Link
+https://github.com/deanna-dewitt14/E-commerce
 
 
 ## Walk through Video
+https://drive.google.com/file/d/1GGO7QkVT6GOm9vcMWzhGw_MM5JJaxbjT/view
